@@ -1,0 +1,2095 @@
+[
+  {
+    "course_name": "Bachelor of Library and Information Science",
+    "traits": {
+      "Analytical_Logic": 0.6,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0.8,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "business-management",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Elementary Education",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.4,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 1,
+      "Social_Governance_Law": 0.2,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "education",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Secondary Education",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 1,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "education",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Special Needs Education",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0.3,
+      "Direct_Healthcare": 0.4,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0.9,
+      "Social_Governance_Law": 0.4,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "education",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Early Childhood Education",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0.5,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.5,
+      "Pedagogy_Instruction": 1,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "education",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Sports Science",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0.6,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.5,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "Bachelor in Technology and Livelihood Education",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0.3,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.4,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 1,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "education",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Development Communication",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.9,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0.7,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Architecture",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0.6,
+      "Spatial_Creative_Design": 1,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Aeronautical Engineering",
+    "traits": {
+      "Analytical_Logic": 0.6,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0.9,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0.8
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "maritime-aviation",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Agricultural and Biosystems Engineering",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.8,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.7,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "low"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Biomedical Engineering",
+    "traits": {
+      "Analytical_Logic": 0.6,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0.5,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Chemical Engineering",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.7,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.8,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Civil Engineering",
+    "traits": {
+      "Analytical_Logic": 0.6,
+      "Quantitative_Math": 0.7,
+      "Physical_Engineering": 1,
+      "Spatial_Creative_Design": 0.4,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Speech Pathology",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0.9,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Computer Engineering",
+    "traits": {
+      "Analytical_Logic": 1,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "high"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "AB Philippine Studies",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.7,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0.8,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB Sociology",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 1,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB International Studies",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 1,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB Philosophy",
+    "traits": {
+      "Analytical_Logic": 0.8,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.5,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.5,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB Literature",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 1,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB Political Science",
+    "traits": {
+      "Analytical_Logic": 0.5,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.5,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 1,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB Communication",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 1,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Social Work",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0.4,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 1,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "AB Performing Arts",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.5,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.9,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Interior Design",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 1,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "Bachelor of Multimedia Arts",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.9,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.7,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "AB Journalism",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 1,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.5,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Electrical Engineering",
+    "traits": {
+      "Analytical_Logic": 0.7,
+      "Quantitative_Math": 0.9,
+      "Physical_Engineering": 0.9,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Electronics Engineering",
+    "traits": {
+      "Analytical_Logic": 0.7,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0.8,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Environmental and Sanitary Engineering",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.5,
+      "Direct_Healthcare": 0.4,
+      "Animal_Agri_Environment": 0.8,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Geodetic Engineering",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0.5,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.4,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Industrial Engineering",
+    "traits": {
+      "Analytical_Logic": 0.5,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.7,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Materials Engineering",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.8,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Information Systems",
+    "traits": {
+      "Analytical_Logic": 0.8,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.7,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "computing-it",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Information Technology",
+    "traits": {
+      "Analytical_Logic": 0.9,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "high"
+    },
+    "field_id": "computing-it",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Medical Technology",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 1,
+      "Direct_Healthcare": 0.6,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Meteorology",
+    "traits": {
+      "Analytical_Logic": 0.7,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.5,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Nutrition",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.7,
+      "Direct_Healthcare": 0.8,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Pharmacy",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.8,
+      "Direct_Healthcare": 0.9,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Mechanical Engineering",
+    "traits": {
+      "Analytical_Logic": 0.5,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 1,
+      "Spatial_Creative_Design": 0.2,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Psychology",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.5,
+      "Direct_Healthcare": 0.7,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0.7,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Public Health",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.5,
+      "Direct_Healthcare": 0.8,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0.5,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "Doctor of Veterinary Medicine",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.8,
+      "Direct_Healthcare": 0.7,
+      "Animal_Agri_Environment": 1,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Nursing",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 1,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Occupational Therapy",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.5,
+      "Direct_Healthcare": 1,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Metallurgical Engineering",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.8,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.4,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BA History",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.5,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0.9,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Aircraft Maintenance Technology",
+    "traits": {
+      "Analytical_Logic": 0.5,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0.7,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0.9
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "high"
+    },
+    "field_id": "maritime-aviation",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "Bachelor of Physical Education",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0.5,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 1,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "education",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Physical Therapy",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 1,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.4,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BA English Language Studies",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 1,
+      "Pedagogy_Instruction": 0.5,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Legal Management",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.9,
+      "Business_Operations": 0.7,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Midwifery",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0.9,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Real Estate Management",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.5,
+      "Business_Operations": 0.9,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "low"
+    },
+    "field_id": "business-management",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Doctor of Optometry",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0.9,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "Doctor of Dental Medicine",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.4,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0.9,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Mining Engineering",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.8,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.3,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.7,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Radiologic Technology",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.7,
+      "Direct_Healthcare": 0.8,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Accountancy",
+    "traits": {
+      "Analytical_Logic": 0.5,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.4,
+      "Business_Operations": 0.9,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "business-management",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Entrepreneurship",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.6,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 1,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "business-management",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Business Administration",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.4,
+      "Business_Operations": 1,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "business-management",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Economics",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.5,
+      "Business_Operations": 0.8,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "business-management",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Criminology",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 1,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "social-sciences-law",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Marine Transportation",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0.5,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.3,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 1
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "maritime-aviation",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Marine Engineering",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 1,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0.8
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "high"
+    },
+    "field_id": "maritime-aviation",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Mechatronics Engineering",
+    "traits": {
+      "Analytical_Logic": 0.7,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 1,
+      "Spatial_Creative_Design": 0.2,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "engineering-architecture",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Food Science and Technology",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.9,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.4,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Data Science",
+    "traits": {
+      "Analytical_Logic": 0.9,
+      "Quantitative_Math": 0.9,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.2,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.5,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "high"
+    },
+    "field_id": "computing-it",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Fisheries",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 1,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0.3
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Industrial Design",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.6,
+      "Spatial_Creative_Design": 0.9,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Computer Science",
+    "traits": {
+      "Analytical_Logic": 1,
+      "Quantitative_Math": 0.8,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.2,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "high"
+    },
+    "field_id": "computing-it",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "Bachelor of Arts in Fashion Design",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 1,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.3,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.5,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Mathematics",
+    "traits": {
+      "Analytical_Logic": 0.7,
+      "Quantitative_Math": 1,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Physics",
+    "traits": {
+      "Analytical_Logic": 0.7,
+      "Quantitative_Math": 0.9,
+      "Physical_Engineering": 0.6,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.3,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Chemistry",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.6,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 1,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Biology",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 1,
+      "Direct_Healthcare": 0.3,
+      "Animal_Agri_Environment": 0.5,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "Bachelor of Fine Arts",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 1,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.5,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "arts-design-communication",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Statistics",
+    "traits": {
+      "Analytical_Logic": 0.6,
+      "Quantitative_Math": 1,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.2,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Astronomy",
+    "traits": {
+      "Analytical_Logic": 0.6,
+      "Quantitative_Math": 0.9,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0.3,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Biochemistry",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 1,
+      "Direct_Healthcare": 0.3,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "natural-sciences-math",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Geography",
+    "traits": {
+      "Analytical_Logic": 0.4,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0.6,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.7,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.5,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Geology",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.9,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "medium"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Agribusiness",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.4,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.7,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.8,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Agricultural and Applied Economics",
+    "traits": {
+      "Analytical_Logic": 0.3,
+      "Quantitative_Math": 0.7,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.6,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.4,
+      "Business_Operations": 0.7,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Tourism and Hospitality Management",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0.4,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0.8,
+      "Maritime_Aviation_Ops": 0.3
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "high"
+    },
+    "field_id": "business-management",
+    "cost_tier": "medium"
+  },
+  {
+    "course_name": "BS Agricultural Chemistry",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.5,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.9,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 0.6,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Agriculture",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.3,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.5,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 1,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.6,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Forestry",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0.4,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.4,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 1,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0.2,
+      "Business_Operations": 0.3,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": true,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  },
+  {
+    "course_name": "BS Health Sciences",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.8,
+      "Direct_Healthcare": 0.7,
+      "Animal_Agri_Environment": 0,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0.3,
+      "Social_Governance_Law": 0.3,
+      "Business_Operations": 0,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "medium"
+    },
+    "field_id": "health-sciences",
+    "cost_tier": "high"
+  },
+  {
+    "course_name": "BS Animal Science",
+    "traits": {
+      "Analytical_Logic": 0,
+      "Quantitative_Math": 0.3,
+      "Physical_Engineering": 0,
+      "Spatial_Creative_Design": 0,
+      "Biological_Lab_Science": 0.6,
+      "Direct_Healthcare": 0,
+      "Animal_Agri_Environment": 1,
+      "Creative_Media_Comm": 0,
+      "Pedagogy_Instruction": 0,
+      "Social_Governance_Law": 0,
+      "Business_Operations": 0.4,
+      "Maritime_Aviation_Ops": 0
+    },
+    "metadata": {
+      "board_exam": false,
+      "abroad_demand": "low"
+    },
+    "field_id": "agriculture-environment",
+    "cost_tier": "low"
+  }
+]

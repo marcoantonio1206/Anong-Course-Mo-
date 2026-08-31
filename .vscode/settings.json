@@ -1,0 +1,5 @@
+{
+    "inlineChat.askInChat": false,
+    "chat.inlineReferences.style": "link",
+    "inlineChat.affordance": "editor"
+}

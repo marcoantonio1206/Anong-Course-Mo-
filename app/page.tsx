@@ -1,4 +1,4 @@
-import courses from './data/courseBankV3.json';
+import courses from '@/data/courseBankV3.json';
 
 export default function Home() {
   // This will print the data to your terminal
